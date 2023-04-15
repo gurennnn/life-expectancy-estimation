@@ -24,9 +24,9 @@ Run the command
 
 ## Usage
 
-Within the `notebooks` folder, there two notebooks:
+Within the `notebooks` folder, there are two notebooks, they should be run in the following order:
 
-- `visulizing.ipynb`: Exploratory data analysis and visualization
-- `modeling.ipynb`: ML Modeling and evaluation
+1. `1_visulizing.ipynb`: Exploratory data analysis, cleaning and visualization.
+2. `2_modeling.ipynb`: Feature engineering, preprocessing, ML Modeling and evaluation
 
 I have put the `life_expectancy.csv` file containing the dataset in the `data` folder, and put it in the `.gitignore` file to avoid uploading it to GitHub, however, you can download it from the Kaggle link above.
