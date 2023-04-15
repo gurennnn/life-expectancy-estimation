@@ -4,7 +4,7 @@ Machine Learning challenge: #4
 
 ## Description
 
-Analyzing social, economic and health status of several countries, and trying to estimate the life expectancy using this [dataset](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who?select=Life+Expectancy+Data.csv) from Kaggle collected by the World Health Organization.
+Analyzing social, economic and health status of several countries, and trying to estimate the life expectancy using this [dataset](https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated?select=Life-Expectancy-Data-Updated.csv) from Kaggle collected by the World Health Organization.
 
 ## Install
 
