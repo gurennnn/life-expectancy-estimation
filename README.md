@@ -24,4 +24,9 @@ Run the command
 
 ## Usage
 
-Go through the notebook `notebooks/life_expectancy.ipynb` for a step-by-step explanation of the process, and an analysis and interpretation of the results.
+Within the `notebooks` folder, there two notebooks:
+
+- `visulizing.ipynb`: Exploratory data analysis and visualization
+- `modeling.ipynb`: ML Modeling and evaluation
+
+I have put the `life_expectancy.csv` file containing the dataset in the `data` folder, and put it in the `.gitignore` file to avoid uploading it to GitHub, however, you can download it from the Kaggle link above.
